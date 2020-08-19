@@ -42,12 +42,12 @@ With the implementation of TeachPod, the world will be ready to preemptively pre
 
 
 ## Test Accounts
-Parent:
-      User: wtejeda@email.com
-      Password: secret123789
-Teacher:
-      User: lwoods@email.com
-      Password: secret123789
+Parent:<br>
+      User: wtejeda@email.com<br>
+      Password: secret123789<br>
+Teacher:<br>
+      User: lwoods@email.com<br>
+      Password: secret123789<br>
 
 ## Installation:
 Enter NPM install in both the root and client folders. All dependencies will automatically install.
