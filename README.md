@@ -43,9 +43,11 @@ With the implementation of TeachPod, the world will be ready to preemptively pre
 
 ## Test Accounts
 Parent:<br>
+<br>
       User: wtejeda@email.com<br>
       Password: secret123789<br>
 Teacher:<br>
+<br>
       User: lwoods@email.com<br>
       Password: secret123789<br>
 
