@@ -3,6 +3,7 @@ import { Table, Col, Card } from "reactstrap";
 import StudentRow from "../StudentRow/StudentRow";
 import API from "../../utils/API";
 import { useMediaQuery } from 'react-responsive';
+import "./studentTable.css";
 
 function StudentTable(props) {
     const [students, setStudents] = useState([]);
